@@ -1,0 +1,42 @@
+<catalogo>
+    <producto>
+        <id>1</id>
+        <nombre>Sillón Minimalista</nombre>
+        <descripcion>Elegante y cómodo para tu sala de estar.</descripcion>
+        <precio>199.99</precio>
+        <imagen>imagenes/sillon-minimalista.jpg</imagen>
+        <seccion>Sala</seccion>
+    </producto>
+    <producto>
+        <id>2</id>
+        <nombre>Mesa de Centro Moderna</nombre>
+        <descripcion>Perfecta para complementar cualquier salón.</descripcion>
+        <precio>249.99</precio>
+        <imagen>imagenes/mesa-centro-moderna.jpg</imagen>
+        <seccion>Sala</seccion>
+    </producto>
+    <producto>
+        <id>3</id>
+        <nombre>Estantería Rústica</nombre>
+        <descripcion>Ideal para decorar habitaciones con estilo.</descripcion>
+        <precio>159.99</precio>
+        <imagen>imagenes/estanteria-rustica.jpg</imagen>
+        <seccion>Habitación</seccion>
+    </producto>
+    <producto>
+        <id>4</id>
+        <nombre>Lámpara de Diseño</nombre>
+        <descripcion>Ilumina tu comedor con elegancia y modernidad.</descripcion>
+        <precio>129.99</precio>
+        <imagen>imagenes/lampara-diseno.jpg</imagen>
+        <seccion>Comedor</seccion>
+    </producto>
+    <producto>
+        <id>5</id>
+        <nombre>Alfombra Geométrica</nombre>
+        <descripcion>Agrega calidez y estilo a cualquier espacio.</descripcion>
+        <precio>89.99</precio>
+        <imagen>imagenes/alfombra-geometrica.jpg</imagen>
+        <seccion>Accesorios</seccion>
+    </producto>
+</catalogo>
